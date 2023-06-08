@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **maamaavictor@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/pdf/s--X1gGbKlD4W-_6QzWKrgXDA--/99JM5.pdf](https://www.cakeresume.com/pdf/s--X1gGbKlD4W-_6QzWKrgXDA--/99JM5.pdf)
+- 📄 Know about my experiences [https://www.cakeresume.com/maamaa-victor](https://www.cakeresume.com/maamaa-victor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maamaavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maamaavictor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maamaa-victor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maamaa-victor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maamaa-victor-aa1936209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maamaa-victor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
